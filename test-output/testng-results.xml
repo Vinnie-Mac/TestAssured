@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-06T10:25:16Z" name="Default suite" finished-at="2018-07-06T10:25:20Z" duration-ms="3495">
+    <groups>
+    </groups>
+    <test started-at="2018-07-06T10:25:16Z" name="Default test" finished-at="2018-07-06T10:25:20Z" duration-ms="3495">
+      <class name="test.post.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.post.RegisterTest@732c2a62]" started-at="2018-07-06T10:25:16Z" name="setup" finished-at="2018-07-06T10:25:19Z" duration-ms="3098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegistrationSuccessful()[pri:0, instance:test.post.RegisterTest@732c2a62]" started-at="2018-07-06T10:25:19Z" name="RegistrationSuccessful" finished-at="2018-07-06T10:25:20Z" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationSuccessful -->
+      </class> <!-- test.post.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
